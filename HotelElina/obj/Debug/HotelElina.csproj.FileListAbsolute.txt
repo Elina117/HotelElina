@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\HotelElina\HotelElina\bin\Debug\HotelElina.exe.config
+\\Mac\Home\Downloads\HotelElina\HotelElina\bin\Debug\HotelElina.exe
+\\Mac\Home\Downloads\HotelElina\HotelElina\bin\Debug\HotelElina.pdb
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.Form1.resources
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.Properties.Resources.resources
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.exe
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.pdb
+\\Mac\Home\Downloads\HotelElina\HotelElina\obj\Debug\HotelElina.ClientCard.resources
