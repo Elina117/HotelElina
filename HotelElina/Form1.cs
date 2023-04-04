@@ -74,7 +74,7 @@ namespace HotelElina
 
         private void ReservedStatus_CheckedChanged(object sender, EventArgs e)
         {
-            for(int i = 0; i < ClientsList.Rows.Count; i++)
+            for (int i = 0; i < ClientsList.Rows.Count; i++)
             {
                 ClientsList.Rows[i].Visible = ClientsList[1, i].Value.ToString() == "Зарезервировано";
             }
@@ -82,6 +82,7 @@ namespace HotelElina
 
         private void FreeStatus_CheckedChanged(object sender, EventArgs e)
         {
+
             for (int i = 0; i < ClientsList.Rows.Count; i++)
             {
                 ClientsList.Rows[i].Visible = ClientsList[1, i].Value.ToString() == "Свободно";
